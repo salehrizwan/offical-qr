@@ -1,0 +1,50 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+  --color-slate-50: #F9F8F4;
+  --color-slate-100: #F4F2ED;
+  --color-slate-200: #E8E4D9;
+  --color-slate-300: #D9E2D5;
+  --color-slate-400: #A69F91;
+  --color-slate-500: #A69F91;
+  --color-slate-600: #6E685E;
+  --color-slate-700: #6E685E;
+  --color-slate-800: #433E37;
+  --color-slate-900: #433E37;
+
+  --color-blue-50: #F4F2ED;
+  --color-blue-100: #D9E2D5;
+  --color-blue-200: #C5D1C0;
+  --color-blue-300: #A1AFA6;
+  --color-blue-400: #7C8B74;
+  --color-blue-500: #7C8B74;
+  --color-blue-600: #7C8B74;
+  --color-blue-700: #6A7963;
+  --color-blue-800: #433E37;
+  --color-blue-900: #433E37;
+
+  --color-indigo-50: #F4F2ED;
+  --color-indigo-100: #D9E2D5;
+  --color-indigo-500: #7C8B74;
+  --color-indigo-600: #7C8B74;
+  --color-indigo-800: #433E37;
+
+  --color-purple-50: #F4F2ED;
+  --color-purple-100: #D9E2D5;
+  --color-purple-500: #7C8B74;
+  --color-purple-600: #7C8B74;
+  --color-purple-800: #433E37;
+
+  --color-green-50: #F4F2ED;
+  --color-green-100: #D9E2D5;
+  --color-green-200: #C5D1C0;
+  --color-green-300: #A1AFA6;
+  --color-green-500: #7C8B74;
+  --color-green-600: #7C8B74;
+  --color-green-700: #6A7963;
+  --color-green-800: #433E37;
+  --color-green-900: #433E37;
+}

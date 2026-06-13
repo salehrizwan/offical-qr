@@ -1,0 +1,6 @@
+{
+  "name": "QRGenius Tools",
+  "description": "A comprehensive suite of utility tools including QR Code Generator, Barcode Generator, Password Generator, URL Shortener, and Age Calculator. Features SEO-friendly articles and legal pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
